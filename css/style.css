@@ -309,6 +309,1638 @@ p [style*='max-width'] {
 	color: #ffffff;
 }
 
+.style-0 {
+	padding-bottom: 128px;
+	box-sizing: border-box;
+	margin: 128px 0px 0px;
+	min-width: 0px;
+	padding-top: 128px;
+	background-color: rgb(18, 18, 23);
+}
+
+.style-1 {
+	margin-bottom: 64px;
+	max-width: 1200px;
+	box-sizing: border-box;
+	min-width: 0px;
+	width: 100%;
+	text-align: center;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.style-2 {
+	font-size: 96px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-family: 'Phantom Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+	line-height: 84px;
+	font-weight: 700;
+	letter-spacing: -0.864px;
+	color: rgb(224, 230, 237);
+}
+
+.style-3 {
+	padding-left: 64px;
+	padding-right: 64px;
+	max-width: 1200px;
+	box-sizing: border-box;
+	margin: 0px auto;
+	min-width: 0px;
+	width: 100%;
+}
+
+.style-4 {
+	max-width: 1200px;
+	box-sizing: border-box;
+	margin: 0px auto;
+	min-width: 0px;
+	width: 100%;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.style-5 {
+    padding-left: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+.style-6 {
+	grid-template-columns: 516.016px 516.035px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	display: grid;
+	gap: 8px;
+}
+
+.style-7 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-8 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-9 {
+	box-sizing: border-box;
+}
+
+.style-10 {
+	box-sizing: border-box;
+}
+
+.style-11 {
+	box-sizing: border-box;
+}
+
+.style-12 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-13 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-14 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-15 {
+	box-sizing: border-box;
+}
+
+.style-16 {
+	box-sizing: border-box;
+}
+
+.style-17 {
+	box-sizing: border-box;
+}
+
+.style-18 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-19 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-20 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-21 {
+	box-sizing: border-box;
+}
+
+.style-22 {
+	box-sizing: border-box;
+}
+
+.style-23 {
+	box-sizing: border-box;
+}
+
+.style-24 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-25 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-26 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-27 {
+	box-sizing: border-box;
+}
+
+.style-28 {
+	box-sizing: border-box;
+}
+
+.style-29 {
+	box-sizing: border-box;
+}
+
+.style-30 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-31 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-32 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-33 {
+	box-sizing: border-box;
+}
+
+.style-34 {
+	box-sizing: border-box;
+}
+
+.style-35 {
+	box-sizing: border-box;
+}
+
+.style-36 {
+	box-sizing: border-box;
+}
+
+.style-37 {
+	box-sizing: border-box;
+}
+
+.style-38 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-39 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-40 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-41 {
+	box-sizing: border-box;
+}
+
+.style-42 {
+	box-sizing: border-box;
+}
+
+.style-43 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-44 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-45 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-46 {
+	box-sizing: border-box;
+}
+
+.style-47 {
+	box-sizing: border-box;
+}
+
+.style-48 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-49 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-50 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-51 {
+	box-sizing: border-box;
+}
+
+.style-52 {
+	box-sizing: border-box;
+}
+
+.style-53 {
+	box-sizing: border-box;
+}
+
+.style-54 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-55 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-56 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-57 {
+	box-sizing: border-box;
+}
+
+.style-58 {
+	box-sizing: border-box;
+}
+
+.style-59 {
+	box-sizing: border-box;
+}
+
+.style-60 {
+	box-sizing: border-box;
+}
+
+.style-61 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-62 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-63 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-64 {
+	box-sizing: border-box;
+}
+
+.style-65 {
+	box-sizing: border-box;
+}
+
+.style-66 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-67 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-68 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-69 {
+	box-sizing: border-box;
+}
+
+.style-70 {
+	box-sizing: border-box;
+}
+
+.style-71 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-72 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-73 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-74 {
+	box-sizing: border-box;
+}
+
+.style-75 {
+	box-sizing: border-box;
+}
+
+.style-76 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-77 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-78 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-79 {
+	box-sizing: border-box;
+}
+
+.style-80 {
+	box-sizing: border-box;
+}
+
+.style-81 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-82 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-83 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-84 {
+	box-sizing: border-box;
+}
+
+.style-85 {
+	box-sizing: border-box;
+}
+
+.style-86 {
+	box-sizing: border-box;
+}
+
+.style-87 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-88 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-89 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-90 {
+	box-sizing: border-box;
+}
+
+.style-91 {
+	box-sizing: border-box;
+}
+
+.style-92 {
+	box-sizing: border-box;
+}
+
+.style-93 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-94 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-95 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-96 {
+	box-sizing: border-box;
+}
+
+.style-97 {
+	box-sizing: border-box;
+}
+
+.style-98 {
+	box-sizing: border-box;
+}
+
+.style-99 {
+	box-sizing: border-box;
+}
+
+.style-100 {
+	box-sizing: border-box;
+}
+
+.style-101 {
+	box-sizing: border-box;
+}
+
+.style-102 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-103 {
+	line-height: 1.25;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	break-inside: avoid;
+	display: flex;
+	align-items: center;
+	padding-bottom: 4px;
+	margin-bottom: 8px;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-3;
+	box-sizing: border-box;
+}
+
+.style-104 {
+	color: rgb(132, 146, 166);
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-105 {
+	box-sizing: border-box;
+}
+
+.style-106 {
+	box-sizing: border-box;
+}
+
+.style-107 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 24px;
+	color: rgb(224, 230, 237);
+}
+
+.style-108 {
+	width: 85%;
+	flex-direction: row;
+	max-width: 1200px;
+	box-sizing: border-box;
+	margin: 0px auto;
+	min-width: 0px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	background-color: rgb(37, 36, 41);
+	color: rgb(224, 230, 237);
+	padding-left: 32px;
+	padding-right: 32px;
+	border-radius: 8px;
+	position: relative;
+}
+
+.style-109 {
+	max-width: 1200px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	width: 100%;
+	padding: 32px 16px;
+}
+
+.style-110 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-weight: 700;
+	line-height: 54px;
+	font-size: 48px;
+}
+
+.style-111 {
+	box-sizing: border-box;
+}
+
+.style-112 {
+	font-size: 24px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	box-sizing: border-box;
+	margin: 16px 0px;
+	min-width: 0px;
+	color: rgb(132, 146, 166);
+}
+
+.style-113 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+}
+
+.style-114 {
+    list-style: none;
+    padding-left: 0;
+    box-sizing: border-box;
+}
+.style-115 {
+	line-height: 1.25;
+	display: flex;
+	align-items: center;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-1;
+	display: flex;
+	align-items: center;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-1;
+	box-sizing: border-box;
+}
+
+.style-116 {
+	color: rgb(236, 55, 80);
+	flex-shrink: 0;
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-117 {
+	box-sizing: border-box;
+}
+
+.style-118 {
+	box-sizing: border-box;
+}
+
+.style-119 {
+	box-sizing: border-box;
+}
+.section {
+	background-color: black;
+	color: white;
+  }
+
+  
+
+.style-120 {
+	font-size: 24px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	box-sizing: border-box;
+	margin: 16px 0px;
+	min-width: 0px;
+}
+
+.style-121 {
+	line-height: 1.25;
+	display: flex;
+	align-items: center;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-1;
+	display: flex;
+	align-items: center;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-1;
+	box-sizing: border-box;
+}
+
+.style-122 {
+	color: rgb(236, 55, 80);
+	flex-shrink: 0;
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-123 {
+	box-sizing: border-box;
+}
+
+.style-124 {
+	box-sizing: border-box;
+}
+
+.style-125 {
+	box-sizing: border-box;
+}
+
+.style-126 {
+	box-sizing: border-box;
+}
+
+.style-127 {
+	font-size: 24px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	box-sizing: border-box;
+	margin: 16px 0px;
+	min-width: 0px;
+}
+
+.style-128 {
+	line-height: 1.25;
+	display: flex;
+	align-items: center;
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-1;
+	display: flex;
+	align-items: center;
+	animation-fill-mode: both;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-1;
+	box-sizing: border-box;
+}
+
+.style-2000 {
+	box-sizing: border-box;
+	margin: 0px 32px;
+	min-width: 0px;
+	display: flex;
+	flex-direction: column;
+	-webkit-box-align: center;
+	align-items: center;
+	gap: 64px;
+}
+
+.style-2001 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	gap: 16px;
+}
+
+.style-2002 {
+	font-size: 96px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-family: 'Phantom Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+	line-height: 84px;
+	font-weight: 700;
+	letter-spacing: -0.864px;
+	color: rgb(255, 255, 255);
+}
+
+.style-2003 {
+	font-size: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	box-sizing: border-box;
+	min-width: 0px;
+	color: rgb(132, 146, 166);
+	margin: 0px;
+}
+
+.style-2004 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+}
+
+.style-2005 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	display: flex;
+	flex-direction: column;
+	-webkit-box-align: center;
+	align-items: center;
+}
+
+.style-2006 {
+	font-size: 32px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+}
+
+.style-2007 {
+	font-size: 64px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-weight: 700;
+	letter-spacing: -0.576px;
+	line-height: 64px;
+	color: rgb(51, 214, 166);
+}
+
+.style-2008 {
+	font-size: 32px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+}
+
+.style-2009 {
+	font-size: 32px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+}
+
+.style-2010 {
+	animation-fill-mode: both;
+	animation-duration: 1000ms;
+	animation-delay: 0ms;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-4;
+	animation-duration: 1s;
+	animation-delay: 0s;
+	animation-iteration-count: 1;
+	opacity: 1;
+	animation-name: react-reveal-139570515883296-4;
+	box-sizing: border-box;
+}
+
+.style-2011 {
+	flex-direction: row;
+	max-width: 1200px;
+	box-sizing: border-box;
+	margin: 0px auto;
+	min-width: 0px;
+	display: flex;
+	-webkit-box-pack: justify;
+	justify-content: space-between;
+	gap: 32px;
+	position: relative;
+}
+
+.style-2012 {
+	flex-direction: column;
+	max-width: 192px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	gap: 16px;
+}
+
+.style-2013 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	max-width: 100%;
+	height: auto;
+	flex-shrink: 0;
+}
+
+.style-2014 {
+	text-align: center;
+	font-size: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	box-sizing: border-box;
+	min-width: 0px;
+	margin: 0px;
+}
+
+.style-2015 {
+	flex-direction: column;
+	max-width: 192px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	gap: 16px;
+}
+
+.style-2016 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	max-width: 100%;
+	height: auto;
+	flex-shrink: 0;
+}
+
+.style-2017 {
+	text-align: center;
+	font-size: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	box-sizing: border-box;
+	min-width: 0px;
+	margin: 0px;
+}
+
+.style-2018 {
+	flex-direction: column;
+	max-width: 192px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	gap: 16px;
+}
+
+.style-2019 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	max-width: 100%;
+	height: auto;
+	flex-shrink: 0;
+}
+
+.style-2020 {
+	text-align: center;
+	font-size: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	box-sizing: border-box;
+	min-width: 0px;
+	margin: 0px;
+}
+
+.style-2021 {
+	flex-direction: column;
+	max-width: 192px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	gap: 16px;
+}
+
+.style-2022 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	max-width: 100%;
+	height: auto;
+	flex-shrink: 0;
+}
+
+.style-2023 {
+	text-align: center;
+	font-size: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	box-sizing: border-box;
+	min-width: 0px;
+	margin: 0px;
+}
+
+.style-2024 {
+	right: 85.0977px;
+	bottom: auto;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	border-style: solid;
+	border-color: rgb(132, 146, 166);
+	border-image: none;
+	border-width: 2.5px 2.5px 0px 0px;
+	position: absolute;
+	inset: 32px auto 32px 10%;
+	z-index: -1;
+}
+
+.style-2025 {
+	box-sizing: border-box;
+	margin: 0px 16px;
+	min-width: 0px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	gap: 32px;
+}
+
+.style-2026 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	appearance: none;
+	text-align: center;
+	text-decoration: none solid rgb(255, 255, 255);
+	color: rgb(255, 255, 255);
+	background-color: rgb(236, 55, 80);
+	border: 0px none rgb(255, 255, 255);
+	cursor: pointer;
+	font-family: 'Phantom Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+	font-weight: 700;
+	border-radius: 99999px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	justify-content: center;
+	box-shadow: rgba(0, 0, 0, 0.125) 0px 4px 8px 0px;
+	letter-spacing: 0.216px;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	transition: transform 0.125s ease-in-out 0s, box-shadow 0.125s ease-in-out 0s;
+	text-transform: uppercase;
+	line-height: 24px;
+	font-size: 24px;
+	padding: 16px 32px;
+	background-image: radial-gradient(at left top, rgb(255, 140, 55), rgb(236, 55, 80));
+	width: 100%;
+	height: 67.1875px;
+}
+
+.style-2027 {
+	box-sizing: border-box;
+	margin: 0px -32px 0px 0px;
+	min-width: 0px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	gap: 16px;
+}
+
+.style-2028 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-weight: 700;
+	font-size: 32px;
+	color: rgb(255, 255, 255);
+}
+
+.style-2029 {
+	margin-left: -4px;
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-2030 {
+	box-sizing: border-box;
+}
+
+.style-2031 {
+	box-sizing: border-box;
+}
+
+.style-2032 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	font-size: 18px;
+	color: rgb(132, 146, 166);
+}
+
+.style-2033 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	text-decoration: underline solid rgb(236, 55, 80);
+	text-underline-position: under;
+	color: rgb(236, 55, 80);
+}
+
+.style-129 {
+	color: rgb(236, 55, 80);
+	flex-shrink: 0;
+	margin-right: 8px;
+	box-sizing: border-box;
+}
+
+.style-130 {
+	box-sizing: border-box;
+}
+
+.style-131 {
+	box-sizing: border-box;
+}
+
+.style-132 {
+	box-sizing: border-box;
+}
+
+.style-133 {
+	box-sizing: border-box;
+}
+
+.style-134 {
+	font-size: 24px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	box-sizing: border-box;
+	margin: 16px 0px;
+	min-width: 0px;
+}
+
+.style-135 {
+	max-width: 1200px;
+	box-sizing: border-box;
+	margin: 32px auto 0px;
+	min-width: 0px;
+	width: 100%;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.style-136 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	display: flex;
+	-webkit-box-pack: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	-webkit-box-align: center;
+	align-items: center;
+	text-align: center;
+}
+
+.style-137 {
+	box-sizing: border-box;
+	margin: 0px 8px 0px 0px;
+	min-width: 0px;
+	font-size: 32px;
+}
+
+.style-138 {
+	width: 128px;
+	height: 127.988px;
+	font-size: 84px;
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	background-color: rgb(60, 72, 88);
+	color: rgb(51, 214, 166);
+	border-radius: 99999px;
+	font-weight: 700;
+	-webkit-box-pack: center;
+	justify-content: center;
+	box-shadow: rgba(255, 255, 255, 0.125) 0px 8px 32px 0px;
+}
+
+.style-139 {
+	box-sizing: border-box;
+	margin: 0px 0px 0px 8px;
+	min-width: 0px;
+	font-size: 32px;
+}
+
+.style-140 {
+	max-width: 768px;
+	box-sizing: border-box;
+	min-width: 0px;
+	width: 100%;
+	margin: 32px auto 64px;
+	padding-left: 16px;
+	padding-right: 16px;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22.5px;
+	letter-spacing: -0.31212px;
+}
+
+.style-141 {
+	max-width: 600px;
+	box-sizing: border-box;
+	margin: 0px auto;
+	min-width: 0px;
+	width: 100%;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.style-142 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	color: rgb(132, 146, 166);
+	line-height: 24.75px;
+}
+
+.style-143 {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	text-decoration: underline solid rgb(236, 55, 80);
+	text-underline-position: under;
+	color: rgb(236, 55, 80);
+}
+
 ::-moz-selection {
 	background: #cccccc;
 	color: #ffffff;
